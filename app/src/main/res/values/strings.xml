@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">Objek</string>
+    <string name="halaman_move_activity">IKHLASUL AMAL</string>
+    <string name="move_with_data">Data</string>
+    <string name="data_received">Data Saya</string>
+    <string name="move_with_object">Pindah dengan Data</string>
+    <string name="object_received">Objek Ditrima</string>
+</resources>
